@@ -63,20 +63,13 @@ This application brings room details and sample availability into one searchable
 
 ## 7. Project Structure
 
-> Adjust to match your repository.
-
-```
 lecture-room-finder/
 ├── index.html
-├── rooms.html
-├── availability.html
 ├── css/
 │   └── styles.css
 ├── js/
 │   └── script.js
-├── images/
 └── README.md
-```
 
 ## 8. How to Run Locally
 
@@ -89,11 +82,7 @@ lecture-room-finder/
 
 No installation, database, or server is required.
 
-## 9. Sample Data
-
-All room records, buildings, capacities, facilities, and availability are **invented sample data**. No real confidential student or staff information is used, and no passwords, financial details, or medical information are collected.
-
-## 10. Testing Evidence
+## 9. Testing Evidence
 
 | Screen size | Width tested | Result | Evidence |
 |-------------|--------------|--------|----------|
@@ -101,33 +90,15 @@ All room records, buildings, capacities, facilities, and availability are **inve
 | Tablet | [e.g. 768px] | [Pass/Fail] | [screenshot link/path] |
 | Desktop | [e.g. 1366px] | [Pass/Fail] | [screenshot link/path] |
 
-Other checks carried out: accessibility (keyboard navigation, labels, alt text), working links, form validation, and capacity/availability calculations.
-
-## 11. Limitations
-
-- Uses sample data only; availability is not connected to a real timetable or booking system.
-- No database, login/authentication, or server-side processing.
-- Room bookings are not saved permanently; data resets when the page is refreshed.
-- Availability results are for demonstration purposes and do not reflect real room usage.
-
-## 12. Future Improvements
-
-- Connect to a real timetable or database.
-- Add user accounts for lecturers and administrators.
-- Allow actual room booking with confirmation.
-- Add a campus map showing room locations.
-
 ## 13. Team Members and Responsibilities
 
-| # | Name | Registration No. | Responsibilities |
+| # | Name | Registration No. |    Responsibilities |
 |---|------|------------------|------------------|
 | 1 | [LETARU BRIDGET] | [2601200800] |  HTML structure and content] |
 | 2 | [EREMA JOEL] | [2601200838] | [CSS styling and responsive layout] |
 | 3 | [ESUKU SETI] | [Reg. No.] | [JavaScript search and filtering] |
 | 4 | [EMMANUEL GIFT] | [Reg. No.] | [Availability checker and form validation] |
 | 5 | [Name] | [Reg. No.] | [e.g. Testing, README, and deployment] |
-
-> Add or remove rows to match your group.
 
 ## 14. Contribution Statements
 
