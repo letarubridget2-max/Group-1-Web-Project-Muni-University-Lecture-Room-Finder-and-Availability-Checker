@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Group 1: Lecture Room Finder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Lecture Room Finder & Availability</h1>
+        <p>Find the perfect room for your next class or study session.</p>
+    </header>
+
+    <main>
+        <!-- SECTION 1: Search and Filter -->
+        <section class="controls-section" aria-labelledby="search-heading">
+            <h2 id="search-heading">Search & Filter Rooms</h2>
+            
+            <div class="filter-group">
+                <div class="input-wrapper">
+    <label for="search-input">Search by Room Name or Building:</label>
+    <select id="search-input">
+        <option value="">All rooms & Buildings</option>
+        <option value="Main Block">Main Block</option>
+        <option value="Science Block">Science Block</option>
+        <option value="ICT Center">ICT Center (Largest)</option>
+        <option value="Arts Block">Arts Block</option>
+        <option value="LT 1">LT 1 (capacity:150)</option>
+        <option value="LT 2">LT 2 (capacity:120-Largest)</option>
+        <option value="Seminar Room A">Seminar Room A</option>
+        <option value="Computer Lab 1">Computer lab 1</option>
+        <option value="Lecture Hall B">Lecture Hall B (capacity:200-Largest)</option>
+        <option value="Computer Lab 3">Computer Lab 3</option>
+        <option value="Computer Lab 2">Computer Lab 2</option>
+        <option value="Conference Room">Conference Room</option>
+    </select>
+</div>
+            
+                <div class=""input-wrapper>
+                 <label for="capacity-filter">Minimum Capacity:</label>
+                 <select id="capacity-filter">
+                    <option value="">Any Capacity</option>
+                    <option value="25">25+ students</option>
+                    <option value="50">50+ students</option>
+                    <option value="100">100+ students (Rooms 2.2 & 3.7)</option>
+                    <option value="150">150+ students (largest)</option>
+                 </select>
+                    </div>
+
+                <div class="input-wrapper">
+                    <label for="facility-filter">Required Facility:</label>
+                    <select id="facility-filter">
+                        <option value="">All Facilities</option>
+                        <option value="Projector">Projector</option>
+                        <option value="AC">Air Conditioning</option>
+                        <option value="Smartboard">Whiteboard</option>
+                        <option value="Computers">Computers</option>
+                    </select>
+                </div>
+                
+                <button id="clear-filters" class="btn-secondary">Clear Filters</button>
+            </div>
+        </section>
+
+        <!-- SECTION 2: Room Display -->
+        <section aria-labelledby="results-heading">
+            <h2 id="results-heading">Available Rooms</h2>
+            
+            <!-- Status message for empty/error/success states -->
+            <div id="status-message" aria-live="polite"></div>
+
+            <!-- CSS Grid container for room cards -->
+            <div id="room-container" class="room-grid">
+                <!-- Rooms will be injected here by JavaScript -->
+            </div>
+        </section>
+
+        <!-- SECTION 3: Form & Recommendation -->
+        <section class="recommender-section" aria-labelledby="recommender-heading">
+            <h2 id="recommender-heading">Room Recommender & Availability Checker</h2>
+            <p>Enter your class requirements, and we will recommend a suitable room based on capacity.</p>
+            
+            <form id="recommender-form">
+                <div class="form-group">
+                    <label for="required-capacity">Required Class Size (Number of Students):</label>
+                    <input type="number" id="required-capacity" required min="1" placeholder="e.g., 80">
+                </div>
+                
+                <div class="form-group">
+                    <label for="preferred-date">Date:</label>
+                    <input type="date" id="preferred-date" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="preferred-period">Period:</label>
+                    <select id="preferred-period" required>
+                        <option value="">Select Period</option>
+                        <option value="Morning">Morning (8:00 - 12:00)</option>
+                        <option value="Afternoon">Afternoon (13:00 - 17:00)</option>
+                        <option value="Evening">Evening (18:00 - 21:00)</option>
+                    </select>
+                </div>
+
+                <button type="submit" class="btn-primary">Find Recommended Rooms</button>
+            </form>
+
+            <div id="recommendation-result" aria-live="polite"></div>
+        </section>
+    </main>
+
+    <footer>
+        <P>Group 1 Project</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
