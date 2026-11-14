@@ -122,7 +122,7 @@ Other checks carried out: accessibility (keyboard navigation, labels, alt text),
 | # | Name | Registration No. | Responsibilities |
 |---|------|------------------|------------------|
 | 1 | [LETARU BRIDGET] | [2601200800] |  HTML structure and content] |
-| 2 | [EREMA JOEL] | [2601200] | [CSS styling and responsive layout] |
+| 2 | [EREMA JOEL] | [2601200838] | [CSS styling and responsive layout] |
 | 3 | [ESUKU SETI] | [Reg. No.] | [JavaScript search and filtering] |
 | 4 | [EMMANUEL GIFT] | [Reg. No.] | [Availability checker and form validation] |
 | 5 | [Name] | [Reg. No.] | [e.g. Testing, README, and deployment] |
