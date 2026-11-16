@@ -87,13 +87,13 @@ No installation, database, or server is required.
 
 ## 10. Team Members and Responsibilities
 
-| # | Name          | Registration No. |    Responsibilities |
-|---|---------------|---------------------|------------------|
-| 1 | LETARU BRIDGET| 2601200800       |  HTML structure and content |
-| 2 | EREMA JOEL    | 2601200838       | CSS styling and responsive layout |
-| 3 | ESUKU SETI    | [Reg. No.]       | JavaScript search and filtering |
-| 4 | EMMANUEL GIFT | 2601200817       | Availability checker and form validation |
-| 5 | EREMA JOEL    | 2601200838       | Testing, README, and deployment |
+| # | Name                             | Registration No.       |    Responsibilities |
+|---|--------------------------------- |------------------------|------------------|
+| 1 | LETARU BRIDGET                   | 2601200800             |  HTML structure and content |
+| 2 | EREMA JOEL                       | 2601200838             | CSS styling and responsive layout |
+| 3 | ESUKU SETI                       | [Reg. No.]             | JavaScript search and filtering |
+| 4 | EMMANUEL GIFT                    | 2601200817             | Availability checker and form validation |
+| 5 | EREMA JOEL & LETARU BRIDGET      | 2601200838 & 2601200800| Testing, README, and deployment |
 
 ## 11. Contribution Statements
 
@@ -103,7 +103,7 @@ Each member has written a short statement describing their own contribution. Com
 - **EREMA JOEL:** Designed and implemented responsive CSS styling, typography, and mobile breakpoints across all pages.
 - **ESUKU SETI:** Developed interactive client-side features, form validation, and DOM manipulation scripts.
 - **EMMANUEL GIFT:** form validation, and DOM manipulation scripts.
-- **EREMA JOEL:** Tested the live application link, created the README.
+- **EREMA JOEL & LETARU BRIDGET:** Tested the live application link, created the README.
 
 ## 12. Acknowledgements and Reused Resources
 
