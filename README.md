@@ -92,7 +92,7 @@ No installation, database, or server is required.
 | 1 | LETARU BRIDGET| 2601200800       |  HTML structure and content |
 | 2 | EREMA JOEL    | 2601200838       | CSS styling and responsive layout |
 | 3 | ESUKU SETI    | [Reg. No.]       | JavaScript search and filtering |
-| 4 | EMMANUEL GIFT | [Reg. No.]       | Availability checker and form validation |
+| 4 | EMMANUEL GIFT | [2601200817]       | Availability checker and form validation |
 | 5 | EREMA JOEL    | 2601200838       | Testing, README, and deployment |
 
 ## 14. Contribution Statements
