@@ -4,8 +4,8 @@
 
 A responsive front-end web application that helps students, lecturers, and administrators find lecture rooms, check sample availability for a chosen date and period, and get recommendations for rooms that suit a class size.
 
-- **Live application:** [ADD DEPLOYED LINK]
-- **GitHub repository:** [ADD REPOSITORY LINK]
+- **Live application:** [ https://letarubridget2-max.github.io/Group-1-Web-Project-Muni-University-Lecture-Room-Finder-and-Availability-Checker/]
+- **GitHub repository:** []
 
 ---
 
