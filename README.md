@@ -79,11 +79,11 @@ No installation, database, or server is required.
 
 ## 9. Testing Evidence
 
-| Screen size | Width tested | Result | Evidence |
-|-------------|--------------|--------|----------|
-| Mobile | [e.g. 375px] | [Pass/Fail] | [screenshot link/path] |
-| Tablet | [e.g. 768px] | [Pass/Fail] | [screenshot link/path] |
-| Desktop | [e.g. 1366px] | [Pass/Fail] | [screenshot link/path] |
+| Screen size | Width tested | Result | 
+|-------------|--------------|--------|
+| Mobile S    | 320px        | Pass   | 
+| Tablet      | 768px        | Pass   | 
+| Laptop      | 1024px       | Pass   |
 
 ## 10. Team Members and Responsibilities
 
