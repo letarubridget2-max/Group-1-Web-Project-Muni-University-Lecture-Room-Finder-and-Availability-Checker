@@ -106,6 +106,7 @@ Each member has written a short statement describing their own contribution. Tho
 ## 12. Acknowledgements and Reused Resources
 
 -No external resources, libraries, icon sets, fonts, images were used in this project.
+
 -Tutorials and reference websites were in this project.
 
 - **Tutorials & Reference Websites:** 
