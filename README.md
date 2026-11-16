@@ -97,7 +97,7 @@ lecture-room-finder/
 
 Each member has written a short statement describing their own contribution. Though some members lacked laptops, one laptop was used to handle HTML, CSS and javascript Commit history on GitHub provides additional evidence of balanced participation.
 
-- **LETARU BRIDGET:** Built the core HTML5 semantic page structure and navigation layout, and managed repository setup and pull request reviews.
+- **LETARU BRIDGET:** Built the core HTML5 semantic page structure and navigation layout, and managed repository setup.
 - **EREMA JOEL:** Designed and implemented responsive CSS styling, typography, and mobile breakpoints across all pages.
 - **ESUKU SETI:** JavaScript search and filtering.
 - **EMMANUEL GIFT:** JavaScript search and filtering.
