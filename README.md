@@ -92,26 +92,27 @@ No installation, database, or server is required.
 | 1 | LETARU BRIDGET| 2601200800       |  HTML structure and content |
 | 2 | EREMA JOEL    | 2601200838       | CSS styling and responsive layout |
 | 3 | ESUKU SETI    | [Reg. No.]       | JavaScript search and filtering |
-| 4 | EMMANUEL GIFT | 2601200817      | Availability checker and form validation |
+| 4 | EMMANUEL GIFT | 2601200817       | Availability checker and form validation |
 | 5 | EREMA JOEL    | 2601200838       | Testing, README, and deployment |
 
 ## 11. Contribution Statements
 
 Each member has written a short statement describing their own contribution. Commit history on GitHub provides additional evidence of balanced participation.
 
-- **LETARU BRIDGET:** [ Built the core HTML5 semantic page structure and navigation layout, and managed repository setup and pull request reviews.]
-- **EREMA JOEL:** [Designed and implemented responsive CSS styling, typography, and mobile breakpoints across all pages.]
-- **ESUKU SETI:** [Developed interactive client-side features, form validation, and DOM manipulation scripts.]
-- **EMMANUEL GIFT:** [form validation, and DOM manipulation scripts]
-- **EREMA JOEL:** [ Tested the live application link, created the README]
+- **LETARU BRIDGET:** Built the core HTML5 semantic page structure and navigation layout, and managed repository setup and pull request reviews.
+- **EREMA JOEL:** Designed and implemented responsive CSS styling, typography, and mobile breakpoints across all pages.
+- **ESUKU SETI:** Developed interactive client-side features, form validation, and DOM manipulation scripts.
+- **EMMANUEL GIFT:** form validation, and DOM manipulation scripts.
+- **EREMA JOEL:** Tested the live application link, created the README.
 
 ## 12. Acknowledgements and Reused Resources
 
-> List every external resource, library, icon set, font, image, tutorial, or reused code snippet. If none were used, say so.
+No external resources, libraries, icon sets, fonts, images, tutorials, or reused code snippets were used in this project.
 
-- [e.g. Google Fonts – font name]
-- [e.g. Icons from ...]
-- [e.g. Code snippet adapted from ... (link)]
+- **Tutorials & Reference Websites:** 
+  - **W3Schools** https://w3schools.comhttps://w3schools.com – Referenced for HTML5/CSS3 syntax.
+    
+  - **MDN Web Docs** https://mozilla.org  – Consulted for HTML semantic element documentation and CSS Flexbox/Grid properties.
 
 ## 13. Academic Integrity
 
