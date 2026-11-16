@@ -85,7 +85,7 @@ No installation, database, or server is required.
 | Tablet | [e.g. 768px] | [Pass/Fail] | [screenshot link/path] |
 | Desktop | [e.g. 1366px] | [Pass/Fail] | [screenshot link/path] |
 
-## 13. Team Members and Responsibilities
+## 10. Team Members and Responsibilities
 
 | # | Name          | Registration No. |    Responsibilities |
 |---|---------------|---------------------|------------------|
@@ -95,17 +95,17 @@ No installation, database, or server is required.
 | 4 | EMMANUEL GIFT | 2601200817      | Availability checker and form validation |
 | 5 | EREMA JOEL    | 2601200838       | Testing, README, and deployment |
 
-## 14. Contribution Statements
+## 11. Contribution Statements
 
 Each member has written a short statement describing their own contribution. Commit history on GitHub provides additional evidence of balanced participation.
 
-- **[Member 1]:** [Short statement]
-- **[Member 2]:** [Short statement]
-- **[Member 3]:** [Short statement]
-- **[Member 4]:** [Short statement]
-- **[Member 5]:** [Short statement]
+- **[LETARU BRIDGET]:** [ Built the core HTML5 semantic page structure and navigation layout, and managed repository setup and pull request reviews.]
+- **[EREMA JOEL]:** [Designed and implemented responsive CSS styling, typography, and mobile breakpoints across all pages.]
+- **[ESUKU SETI]:** [Developed interactive client-side features, form validation, and DOM manipulation scripts.]
+- **[EMMANUEL GIFT]:** [form validation, and DOM manipulation scripts]
+- **[EREMA JOEL]:** [ Tested the live application link, created the README]
 
-## 15. Acknowledgements and Reused Resources
+## 12. Acknowledgements and Reused Resources
 
 > List every external resource, library, icon set, font, image, tutorial, or reused code snippet. If none were used, say so.
 
@@ -113,7 +113,7 @@ Each member has written a short statement describing their own contribution. Com
 - [e.g. Icons from ...]
 - [e.g. Code snippet adapted from ... (link)]
 
-## 16. Academic Integrity
+## 13. Academic Integrity
 
 The code in this repository was developed and is understood by the group. Any external resources or reused code are acknowledged above.
 
