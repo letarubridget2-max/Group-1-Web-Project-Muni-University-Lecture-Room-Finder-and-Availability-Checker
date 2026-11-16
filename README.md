@@ -70,7 +70,7 @@ lecture-room-finder/
 
 1. Clone the repository:
    ```bash
-   git clone [ADD REPOSITORY LINK]
+   git clone [https://github.com/letarubridget2-max/Group-1-Web-Project-Muni-University-Lecture-Room-Finder-and-Availability-Checker.git]
    ```
 2. Open the project folder.
 3. Open `index.html` in a web browser (or use a local server such as the VS Code Live Server extension).
@@ -92,7 +92,7 @@ No installation, database, or server is required.
 | 1 | LETARU BRIDGET| 2601200800       |  HTML structure and content |
 | 2 | EREMA JOEL    | 2601200838       | CSS styling and responsive layout |
 | 3 | ESUKU SETI    | [Reg. No.]       | JavaScript search and filtering |
-| 4 | EMMANUEL GIFT | [2601200817]       | Availability checker and form validation |
+| 4 | EMMANUEL GIFT | 2601200817      | Availability checker and form validation |
 | 5 | EREMA JOEL    | 2601200838       | Testing, README, and deployment |
 
 ## 14. Contribution Statements
