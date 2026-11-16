@@ -110,7 +110,7 @@ Each member has written a short statement describing their own contribution. Tho
 -Tutorials and reference websites were in this project.
 
 - **Tutorials & Reference Websites:** 
-  - **W3Schools** https://w3schools.comhttps://w3schools.com – Referenced for HTML5/CSS3 syntax.
+  - **W3Schools** https://w3schools.com – Referenced for HTML5/CSS3 syntax.
     
   - **MDN Web Docs** https://mozilla.org  – Consulted for HTML semantic element documentation and CSS Flexbox/Grid properties.
 
