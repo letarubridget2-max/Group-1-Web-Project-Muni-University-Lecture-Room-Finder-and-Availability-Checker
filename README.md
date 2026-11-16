@@ -4,8 +4,8 @@
 
 A responsive front-end web application that helps students, lecturers, and administrators find lecture rooms, check sample availability for a chosen date and period, and get recommendations for rooms that suit a class size.
 
-- **Live application:** [ https://letarubridget2-max.github.io/Group-1-Web-Project-Muni-University-Lecture-Room-Finder-and-Availability-Checker/]
-- **GitHub repository:** [https://github.com/letarubridget2-max/Group-1-Web-Project-Muni-University-Lecture-Room-Finder-and-Availability-Checker.git]
+- **Live application:** https://letarubridget2-max.github.io/Group-1-Web-Project-Muni-University-Lecture-Room-Finder-and-Availability-Checker/
+- **GitHub repository:** https://github.com/letarubridget2-max/Group-1-Web-Project-Muni-University-Lecture-Room-Finder-and-Availability-Checker.git
 
 ---
 
@@ -99,11 +99,11 @@ No installation, database, or server is required.
 
 Each member has written a short statement describing their own contribution. Commit history on GitHub provides additional evidence of balanced participation.
 
-- **[LETARU BRIDGET]:** [ Built the core HTML5 semantic page structure and navigation layout, and managed repository setup and pull request reviews.]
-- **[EREMA JOEL]:** [Designed and implemented responsive CSS styling, typography, and mobile breakpoints across all pages.]
-- **[ESUKU SETI]:** [Developed interactive client-side features, form validation, and DOM manipulation scripts.]
-- **[EMMANUEL GIFT]:** [form validation, and DOM manipulation scripts]
-- **[EREMA JOEL]:** [ Tested the live application link, created the README]
+- **LETARU BRIDGET:** [ Built the core HTML5 semantic page structure and navigation layout, and managed repository setup and pull request reviews.]
+- **EREMA JOEL:** [Designed and implemented responsive CSS styling, typography, and mobile breakpoints across all pages.]
+- **ESUKU SETI:** [Developed interactive client-side features, form validation, and DOM manipulation scripts.]
+- **EMMANUEL GIFT:** [form validation, and DOM manipulation scripts]
+- **EREMA JOEL:** [ Tested the live application link, created the README]
 
 ## 12. Acknowledgements and Reused Resources
 
