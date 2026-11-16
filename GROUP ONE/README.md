@@ -37,23 +37,18 @@ This application brings room details and sample availability into one searchable
 
 ## 4. Pages / Sections
 
-> Update this list to match your final structure.
-
-1. **Home / Overview:** introduction to the tool and quick links.
-2. **Rooms:** searchable and filterable list of lecture rooms.
-3. **Availability Checker:** date, period, and class-size form with results and recommendations.
+1. **Search & Filter Rooms:** introduction to the tool and quick links.
+2. **Available Rooms:** searchable and filterable list of lecture rooms.
+3. **Room Recommender & Availability Checker:** date, period, and class-size form with results and recommendations.
 
 ## 5. Technologies Used
 
 - HTML5 (semantic elements)
 - CSS3 (external stylesheet, reusable classes, Flexbox, CSS Grid, global `box-sizing: border-box`)
 - Vanilla JavaScript (browser-side processing with sample data)
-- Git and GitHub for version control and collaboration
-- [ADD HOSTING PLATFORM, e.g. GitHub Pages] for deployment
+- GitHub for collaboration
 
 ## 6. Key JavaScript Functions
-
-> Replace these with the actual function names in your code.
 
 | Purpose | Function | Description |
 |---------|----------|-------------|
@@ -92,13 +87,13 @@ No installation, database, or server is required.
 
 ## 13. Team Members and Responsibilities
 
-| # | Name | Registration No. |    Responsibilities |
-|---|------|------------------|------------------|
-| 1 | [LETARU BRIDGET] | [2601200800] |  HTML structure and content] |
-| 2 | [EREMA JOEL] | [2601200838] | [CSS styling and responsive layout] |
-| 3 | [ESUKU SETI] | [Reg. No.] | [JavaScript search and filtering] |
-| 4 | [EMMANUEL GIFT] | [Reg. No.] | [Availability checker and form validation] |
-| 5 | [Name] | [Reg. No.] | [e.g. Testing, README, and deployment] |
+| # | Name          | Registration No. |    Responsibilities |
+|---|---------------|---------------------|------------------|
+| 1 | LETARU BRIDGET| 2601200800       |  HTML structure and content |
+| 2 | EREMA JOEL    | 2601200838       | CSS styling and responsive layout |
+| 3 | ESUKU SETI    | [Reg. No.]       | JavaScript search and filtering |
+| 4 | EMMANUEL GIFT | [Reg. No.]       | Availability checker and form validation |
+| 5 | EREMA JOEL    | 2601200838       | Testing, README, and deployment |
 
 ## 14. Contribution Statements
 
