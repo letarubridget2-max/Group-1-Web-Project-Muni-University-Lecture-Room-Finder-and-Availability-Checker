@@ -105,7 +105,8 @@ Each member has written a short statement describing their own contribution. Tho
 
 ## 12. Acknowledgements and Reused Resources
 
-No external resources, libraries, icon sets, fonts, images, tutorials, or reused code snippets were used in this project.
+-No external resources, libraries, icon sets, fonts, images were used in this project.
+-Tutorials and reference websites were in this project.
 
 - **Tutorials & Reference Websites:** 
   - **W3Schools** https://w3schools.comhttps://w3schools.com – Referenced for HTML5/CSS3 syntax.
