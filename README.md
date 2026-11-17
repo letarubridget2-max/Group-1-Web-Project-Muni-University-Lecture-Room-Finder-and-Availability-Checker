@@ -17,10 +17,10 @@ This application brings room details and sample availability into one searchable
 
 ## 2. Intended Users
 
-| User | How they use the application |
-|------|------------------------------|
-| **Students** | Look up rooms by name or building and check whether a room is free for a study group or class. |
-| **Lecturers** | Find rooms that match their class size and required facilities (e.g. projector, whiteboard). |
+| User               | How they use the application |
+|--------------------|------------------------------|
+| **Students**       | Look up rooms by name or building and check whether a room is free for a study group or class. |
+| **Lecturers**      | Find rooms that match their class size and required facilities (e.g. projector, whiteboard). |
 | **Administrators** | Compare capacity against class size and review availability when scheduling. |
 
 ## 3. Features
@@ -50,11 +50,11 @@ This application brings room details and sample availability into one searchable
 
 ## 6. Key JavaScript Functions
 
-| Purpose | Function | Description |
-|---------|----------|-------------|
-| Search / filter | `filterRooms()` | Filters rooms by name, building, capacity, and facility. |
+| Purpose              | Function | Description |
+|----------------------|----------|-------------|
+| Search / filter      | `filter Rooms()` | Filters rooms by name, building, capacity, and facility. |
 | Comparison / summary | `recommendRooms()` | Compares class size with room capacity and returns suitable rooms. |
-| User action | `checkAvailability()` | Validates the form and shows room availability for the selected date and period. |
+| User action | `check Availability()` | Validates the form and shows room availability for the selected date and period. |
 
 ## 7. Project Structure
 
