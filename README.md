@@ -89,7 +89,7 @@ lecture-room-finder/
 |---|--------------------------------- |------------------------|------------------|
 | 1 | LETARU BRIDGET                   | 2601200800             |  HTML structure and content |
 | 2 | EREMA JOEL                       | 2601200838             | CSS styling and responsive layout |
-| 3 | ESUKU SETI                       | [Reg. No.]             | JavaScript search and filtering |
+| 3 | ESUKU SETI                       | 2601200818             | JavaScript search and filtering |
 | 4 | EMMANUEL GIFT                    | 2601200817             | JavaScript search and filtering |
 | 5 | EREMA JOEL & LETARU BRIDGET      | 2601200838 & 2601200800| Testing, README, and deployment |
 
