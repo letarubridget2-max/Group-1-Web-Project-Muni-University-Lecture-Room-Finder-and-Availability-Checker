@@ -109,9 +109,12 @@ Each member has written a short statement describing their own contribution. Tho
 
 -Tutorials and reference websites were used in this project.
 
+- Ai (was utilised at some point for guidance)
+
 - **Tutorials & Reference Websites:** 
   - **W3Schools** https://w3schools.com – Referenced for HTML5/CSS3 syntax.
   - **JavaScript tutorial** https://www.javascripttutorial.net/ - Referenced for JavaScript syntax.
+    
 ## 13. Academic Integrity
 
 The code in this repository was developed and is understood by the group. Any external resources or reused code are acknowledged above.
