@@ -107,13 +107,11 @@ Each member has written a short statement describing their own contribution. Tho
 
 -No external resources, libraries, icon sets, fonts, images were used in this project.
 
--Tutorials and reference websites were in this project.
+-Tutorials and reference websites were used in this project.
 
 - **Tutorials & Reference Websites:** 
   - **W3Schools** https://w3schools.com – Referenced for HTML5/CSS3 syntax.
-    
-  - **MDN Web Docs** https://mozilla.org  – Consulted for HTML semantic element documentation and CSS Flexbox/Grid properties.
-
+  - **JavaScript tutorial** https://www.javascripttutorial.net/ - Referenced for JavaScript syntax.
 ## 13. Academic Integrity
 
 The code in this repository was developed and is understood by the group. Any external resources or reused code are acknowledged above.
