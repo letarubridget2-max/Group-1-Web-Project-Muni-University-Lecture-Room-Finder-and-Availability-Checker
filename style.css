@@ -105,8 +105,8 @@ button {
     color: white;
 }
 
-.btn-primary:hover {
-    background-color: #003366;
+.btn-primary:hover{
+    background-color:#003366;
 }
 
 .btn-secondary {
