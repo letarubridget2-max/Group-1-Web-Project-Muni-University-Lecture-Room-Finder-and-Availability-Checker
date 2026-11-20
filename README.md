@@ -6,6 +6,7 @@ A responsive front-end web application that helps students, lecturers, and admin
 
 - **Live application:** https://letarubridget2-max.github.io/itm7131-group01-Lecture-room-finder-and-availability-checker/
 - **GitHub repository:** https://github.com/letarubridget2-max/itm7131-group01-Lecture-room-finder-and-availability-checker.git
+- **Video link:** https://youtu.be/8FJPT8t-QJE
 
 ---
 
